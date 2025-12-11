@@ -1,1 +1,20 @@
-
+1	Basic Operations	Write a Java Program to print sum of two numbers.
+2	Basic Operations	Write a Java Program to print difference of two numbers.
+3	Basic Operations	Write a Java Program to print product of two numbers.
+4	Basic Operations	Write a Java Program to print quotient of two numbers.
+5	Basic Operations	Write a Java Program to print remainder of two numbers.
+6	Basic Operations	Write a Java Program to swap two numbers using a third variable.
+7	Basic Operations	Write a Java Program to swap two numbers without using a third variable.
+8	Basic Operations	Write a Java Program to print the last digit of a given number N.
+9	Basic Operations	Write a Java Program to print all digits except the last digit of a given number N.
+10	Basic Operations	Write a Java Program to print the sum of the first and last digit of a 3-digit number.
+11	Basic Operations	Write a Java Program to print the middle digit of a 3-digit number.
+12	Basic Operations	Write a Java Program to print the absolute value of a number.
+13	Basic Operations	Write a Java Program to print the square of a number.
+14	Basic Operations	Write a Java Program to print the cube of a number.
+15	Basic Operations	Write a Java Program to calculate the average of three numbers.
+16	Basic Operations	Write a Java Program to check whether two numbers are equal (true/false).
+17	Basic Operations	Write a Java Program to check if a number is power of 2 using bitwise AND.
+18	Basic Operations	Write a Java Program to check whether a number is positive or negative.
+19	Basic Operations	Write a Java Program to find the greatest of three numbers.
+20	Basic Operations	Write a Java Program to print pass/fail result based on marks.
